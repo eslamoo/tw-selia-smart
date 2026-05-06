@@ -1,0 +1,14 @@
+{
+    "name": {
+        "ar": "tw-selia-smart",
+        "en": "tw-selia-smart"
+    },
+    "description": {
+        "ar": "",
+        "en": ""
+    },
+    "author_email": "seliaagency@gmail.com",
+    "support_url": "",
+    "repository": "https://github.com/eslamoo/tw-selia-smart",
+    "components": []
+}
